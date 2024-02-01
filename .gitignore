@@ -1,0 +1,10 @@
+/.idea
+/.ipynb_checkpoints
+/.vscode
+/env
+/diffusers
+/photos
+/sd-2-masha-model
+/blip-labels
+/results
+*.ipynb
